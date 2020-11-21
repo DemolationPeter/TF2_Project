@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/research/cocoapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scripts/OIDv4_to_VOC" vcs="Git" />
+  </component>
+</project>
